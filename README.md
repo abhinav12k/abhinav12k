@@ -8,7 +8,6 @@ I am an Android Developer, currently working on improving my skills. Majorly foc
 </a>
 
 <br/>
-<br/>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
@@ -31,10 +30,6 @@ I am an Android Developer, currently working on improving my skills. Majorly foc
 <a href="https://www.linkedin.com/in/abhinav12k/">
   <img align="left" alt="Abhinav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhinav12k/">
-  <img align="left" alt="Abhinav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://github.com/abhinav78910">
   <img align="left" alt="Abhinav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
