@@ -18,7 +18,7 @@ I am an Android Developer, currently working on improving my skills. Majorly foc
 
 
 ### Stats
-![Abhinav's Github Stats](https://github-readme-stats.vercel.app/api?username=abhinav78910&show_icons=true&include_all_commits=true&count_private=true&theme=default&show_icons=true&hide=prs)
+![Abhinav's Github Stats](https://github-readme-stats.abhinav78910.vercel.app/api?username=abhinav78910&show_icons=true&include_all_commits=true&count_private=true&theme=default&show_icons=true&hide=prs)
 
 ### Get In Touch
 <a href="https://twitter.com/Abhinav12k">
