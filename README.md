@@ -18,7 +18,7 @@ I am an Android Developer, currently working on improving my skills. Majorly foc
 
 
 ### Stats
-![Abhinav's Github Stats](https://github-readme-stats.abhinav78910.vercel.app/api?username=abhinav78910&show_icons=true&include_all_commits=true&count_private=true&theme=default&show_icons=true&hide=prs)
+![Abhinav's Github Stats](https://github-readme-stats.abhinav78910.vercel.app/api?username=abhinav12k&show_icons=true&include_all_commits=true&count_private=true&theme=default&show_icons=true&hide=prs)
 
 ### Get In Touch
 <a href="https://twitter.com/Abhinav12k">
@@ -27,6 +27,6 @@ I am an Android Developer, currently working on improving my skills. Majorly foc
 <a href="https://www.linkedin.com/in/abhinav12k/">
   <img align="left" alt="Abhinav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/abhinav78910">
+<a href="https://github.com/abhinav12k">
   <img align="left" alt="Abhinav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
