@@ -3,7 +3,7 @@
 I am an Android Developer, currently working on improving my skills. Majorly focusing on **User Interface**, **Testing** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Tandy TRS-80 Model I computer radiated so much interference that many games were designed so that an AM radio next to the computer could be used to provide sounds.❞</i>
+<i>❝“I don’t know what the language of the year 2000 will look like, but I know it will be called Fortran.”— CA Hoare, 1982  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
