@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abhinav
 
-I am an Android Developer, currently working on improving my skills. Majorly focusing on **User Interface**, **Testing** and building **Modular** android apps. 
+I am an Android Developer, currently working on improving my skills. Majorly focusing on **User Interface**, **Architecture**, **Design Patterns** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“The problem of viruses is temporary and will be solved in two years.”— John McAfee, 1988  ❞</i>
