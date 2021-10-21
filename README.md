@@ -6,6 +6,8 @@ I am an Android Developer, currently working on improving my skills. Majorly foc
 <i>❝“It was a joke, okay?  If we thought it would actually be used, we wouldn’t have written it!”— Mark Andreesen, speaking of the HTML tag BLINK      ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
+![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
+
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ### About Me:
@@ -18,8 +20,14 @@ I am an Android Developer, currently working on improving my skills. Majorly foc
 
 
 ### Stats
-![Abhinav's Github Stats](https://github-readme-stats.abhinav78910.vercel.app/api?username=abhinav12k&show_icons=true&include_all_commits=true&count_private=true&theme=default&show_icons=true&hide=prs)
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav12k&show_icons=true&include_all_commits=true&count_private=true&theme=default&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav12k&layout=compact&exclude_repo=github-readme-stats)
+
+<!--
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=9b54c513-3fa8-45ff-909e-30c9770b27bd)
+[![wakatime](https://wakatime.com/badge/user/9b54c513-3fa8-45ff-909e-30c9770b27bd.svg)](https://wakatime.com/@9b54c513-3fa8-45ff-909e-30c9770b27bd)
+-->
 ### Get In Touch
 <a href="https://twitter.com/Abhinav12k">
   <img align="left" alt="Abhinav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
