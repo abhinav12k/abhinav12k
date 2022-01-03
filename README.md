@@ -3,7 +3,7 @@
 I am an Android Developer, currently working on improving my skills. Majorly focusing on **User Interface**, **Architecture**, **Design Patterns** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first ever hard disk drive was made in 1979, and could hold only 5MB of data.❞</i>
+<i>❝Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
