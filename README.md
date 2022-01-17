@@ -24,6 +24,7 @@ I am an Android Developer, currently working on improving my skills. Majorly foc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav12k&layout=compact&exclude_repo=github-readme-stats)
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav12k" alt="abhinav12k"/>
 <!--
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=9b54c513-3fa8-45ff-909e-30c9770b27bd)
 [![wakatime](https://wakatime.com/badge/user/9b54c513-3fa8-45ff-909e-30c9770b27bd.svg)](https://wakatime.com/@9b54c513-3fa8-45ff-909e-30c9770b27bd)
