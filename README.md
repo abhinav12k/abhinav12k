@@ -3,7 +3,7 @@
 I am an Android Developer, currently working on improving my skills. Majorly focusing on **DSA**, **User Interface**, **Architecture**, **Design Patterns** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The Space Invaders game was intended to always be played at the same speed, but as you destroy more aliens, the computer can render faster. This is why the aliens speed up as you near the end of the level.❞</i>
+<i>❝“We need above all to know about changes; no one wants or needs to be reminded 16 hours a day that his shoes are on.”— David Hubel   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
