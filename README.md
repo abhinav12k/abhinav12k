@@ -3,7 +3,7 @@
 I am an Android Developer, currently working on improving my skills. Majorly focusing on **DSA**, **User Interface**, **Architecture**, **Design Patterns** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Data levels all arguments.”— Anthony W. Richardson❞</i>
+<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
