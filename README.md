@@ -3,7 +3,7 @@
 I am an Android Developer, currently working on improving my skills. Majorly focusing on **DSA**, **User Interface**, **Architecture**, **Design Patterns** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
+<i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
