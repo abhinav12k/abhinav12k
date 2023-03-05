@@ -3,7 +3,7 @@
 I am an Android Developer, currently working on improving my skills. Majorly focusing on **DSA**, **User Interface**, **Architecture**, **Design Patterns** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first microprocessor created by Intel was the It was designed for a calculator, and in that time nobody imagined where it would lead.❞</i>
+<i>❝“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
