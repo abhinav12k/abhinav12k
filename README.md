@@ -3,7 +3,7 @@
 I am an Android Developer, currently working on improving my skills. Majorly focusing on **DSA**, **User Interface**, **Architecture**, **Design Patterns** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   ❞</i>
+<i>❝“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”— Gene Spafford   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
