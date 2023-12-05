@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abhinav
 
-I am an Android Developer, currently working on improving my skills. Majorly focusing on **DSA**, **User Interface**, **Architecture**, **Design Patterns** and building **Modular** android apps. 
+I am an Android Developer, currently working on improving my skills. Majorly focusing on **Architecture**, **Design Patterns**, **Problem Solving** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“I think it’s a new feature.  Don’t tell anyone it was an accident.”— Larry Wall   ❞</i>
@@ -12,8 +12,8 @@ I am an Android Developer, currently working on improving my skills. Majorly foc
 
 ### About Me:
 
-- 🔭 I’m currently working with ♥️Android , Kotlin, Java
-- 👯 I’m looking to collaborate on Android Projects
+- 🔭 I’m currently working with ♥️Android , Kotlin, Python
+- 👯 I’m looking to collaborate on anything that sounds fun and interesting!
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: abhi2000.rtk@gmail.com
 - ⚡ Fun fact: Everything is Possible
