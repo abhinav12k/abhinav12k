@@ -3,7 +3,7 @@
 I am an Android Developer, currently working on improving my skills. Majorly focusing on **Architecture**, **Design Patterns**, **Problem Solving** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝As computers run, they get hot. Computers have fans to keep them cool.❞</i>
+<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
