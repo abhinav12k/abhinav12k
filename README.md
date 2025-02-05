@@ -3,7 +3,7 @@
 I am an Android Developer, currently working on improving my skills. Majorly focusing on **Architecture**, **Design Patterns**, **Problem Solving** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I see little commercial potential for the Internet for at least ten years.”— Bill Gates, 1994   ❞</i>
+<i>❝During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
