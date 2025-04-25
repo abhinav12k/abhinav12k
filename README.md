@@ -3,7 +3,7 @@
 I am an Android Developer, currently working on improving my skills. Majorly focusing on **Architecture**, **Design Patterns**, **Problem Solving** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝E-Mail was invented before Internet. Shocked!!!! ” I also got shocked after hearing this.”❞</i>
+<i>❝“The more you know, the more you realize you know nothing.”— Socrates   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
