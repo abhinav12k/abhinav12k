@@ -3,7 +3,7 @@
 I am an Android Developer, currently working on improving my skills. Majorly focusing on **Architecture**, **Design Patterns**, **Problem Solving** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   ❞</i>
+<i>❝“Simplicity, carried to the extreme, becomes elegance.”— Jon Franklin   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
