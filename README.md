@@ -3,7 +3,7 @@
 I am an Android Developer, currently working on improving my skills. Majorly focusing on **Architecture**, **Design Patterns**, **Problem Solving** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“As data scientists, our job is to extract signal from noise.”— Daniel Tunkelang❞</i>
+<i>❝Russians made a computer that ran on water in the mid of 1936.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
