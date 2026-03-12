@@ -3,7 +3,7 @@
 I am an Android Developer, currently working on improving my skills. Majorly focusing on **Architecture**, **Design Patterns**, **Problem Solving** and building **Modular** android apps. 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝500 hours of Video are uploaded to Facebook every minute according to Forecast.❞</i>
+<i>❝“I think computer viruses should count as life.  I think it says something about human nature that the only form of life we have created so far is purely destructive.  We’ve created life in our own image.”— Stephen Hawking   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav12k)
